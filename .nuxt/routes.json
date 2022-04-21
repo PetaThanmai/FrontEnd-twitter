@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CreatePost",
+    "path": "/CreatePost",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\TwitterFrontEnd\\\\pages\\\\CreatePost.vue",
+    "chunkName": "pages/CreatePost"
+  },
+  {
+    "name": "Post",
+    "path": "/Post",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\TwitterFrontEnd\\\\pages\\\\Post.vue",
+    "chunkName": "pages/Post"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\TwitterFrontEnd\\\\pages\\\\Profile.vue",
+    "chunkName": "pages/Profile"
+  },
+  {
+    "name": "Registration",
+    "path": "/Registration",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\TwitterFrontEnd\\\\pages\\\\Registration.vue",
+    "chunkName": "pages/Registration"
+  },
+  {
+    "name": "UserHome",
+    "path": "/UserHome",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\TwitterFrontEnd\\\\pages\\\\UserHome.vue",
+    "chunkName": "pages/UserHome"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\TwitterFrontEnd\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
